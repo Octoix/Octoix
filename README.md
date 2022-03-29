@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Octoix
 - 👀 I’m interested in machine learning algorithms, data science and full-stack development. 
 - 🌱 I’m currently learning TensorFlow.
-- 💞️ I’m looking to collaborate on projects that really push boundaries!
 - 📫 How to reach me theoctoix@gmail.com
